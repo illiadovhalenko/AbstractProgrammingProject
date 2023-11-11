@@ -1,0 +1,3 @@
+/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug/CMakeFiles/zad_domowe_2.dir
+/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

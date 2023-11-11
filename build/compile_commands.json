@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++ -DBOOST_ALL_NO_LIB -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++17 -o CMakeFiles/zad_domowe_2.dir/main.cpp.o -c /example/main.cpp",
+  "file": "/example/main.cpp"
+}
+]

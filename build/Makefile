@@ -129,6 +129,198 @@ zad_domowe_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/build
 .PHONY : zad_domowe_2/fast
 
+FieldPlayers.o: FieldPlayers.cpp.o
+.PHONY : FieldPlayers.o
+
+# target to build an object file
+FieldPlayers.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o
+.PHONY : FieldPlayers.cpp.o
+
+FieldPlayers.i: FieldPlayers.cpp.i
+.PHONY : FieldPlayers.i
+
+# target to preprocess a source file
+FieldPlayers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.i
+.PHONY : FieldPlayers.cpp.i
+
+FieldPlayers.s: FieldPlayers.cpp.s
+.PHONY : FieldPlayers.s
+
+# target to generate assembly for a file
+FieldPlayers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.s
+.PHONY : FieldPlayers.cpp.s
+
+Game.o: Game.cpp.o
+.PHONY : Game.o
+
+# target to build an object file
+Game.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Game.cpp.o
+.PHONY : Game.cpp.o
+
+Game.i: Game.cpp.i
+.PHONY : Game.i
+
+# target to preprocess a source file
+Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Game.cpp.i
+.PHONY : Game.cpp.i
+
+Game.s: Game.cpp.s
+.PHONY : Game.s
+
+# target to generate assembly for a file
+Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Game.cpp.s
+.PHONY : Game.cpp.s
+
+Goalkeeper.o: Goalkeeper.cpp.o
+.PHONY : Goalkeeper.o
+
+# target to build an object file
+Goalkeeper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o
+.PHONY : Goalkeeper.cpp.o
+
+Goalkeeper.i: Goalkeeper.cpp.i
+.PHONY : Goalkeeper.i
+
+# target to preprocess a source file
+Goalkeeper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.i
+.PHONY : Goalkeeper.cpp.i
+
+Goalkeeper.s: Goalkeeper.cpp.s
+.PHONY : Goalkeeper.s
+
+# target to generate assembly for a file
+Goalkeeper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.s
+.PHONY : Goalkeeper.cpp.s
+
+Human.o: Human.cpp.o
+.PHONY : Human.o
+
+# target to build an object file
+Human.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Human.cpp.o
+.PHONY : Human.cpp.o
+
+Human.i: Human.cpp.i
+.PHONY : Human.i
+
+# target to preprocess a source file
+Human.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Human.cpp.i
+.PHONY : Human.cpp.i
+
+Human.s: Human.cpp.s
+.PHONY : Human.s
+
+# target to generate assembly for a file
+Human.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Human.cpp.s
+.PHONY : Human.cpp.s
+
+Player.o: Player.cpp.o
+.PHONY : Player.o
+
+# target to build an object file
+Player.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Player.cpp.o
+.PHONY : Player.cpp.o
+
+Player.i: Player.cpp.i
+.PHONY : Player.i
+
+# target to preprocess a source file
+Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Player.cpp.i
+.PHONY : Player.cpp.i
+
+Player.s: Player.cpp.s
+.PHONY : Player.s
+
+# target to generate assembly for a file
+Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Player.cpp.s
+.PHONY : Player.cpp.s
+
+Referee.o: Referee.cpp.o
+.PHONY : Referee.o
+
+# target to build an object file
+Referee.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Referee.cpp.o
+.PHONY : Referee.cpp.o
+
+Referee.i: Referee.cpp.i
+.PHONY : Referee.i
+
+# target to preprocess a source file
+Referee.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Referee.cpp.i
+.PHONY : Referee.cpp.i
+
+Referee.s: Referee.cpp.s
+.PHONY : Referee.s
+
+# target to generate assembly for a file
+Referee.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Referee.cpp.s
+.PHONY : Referee.cpp.s
+
+Team.o: Team.cpp.o
+.PHONY : Team.o
+
+# target to build an object file
+Team.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Team.cpp.o
+.PHONY : Team.cpp.o
+
+Team.i: Team.cpp.i
+.PHONY : Team.i
+
+# target to preprocess a source file
+Team.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Team.cpp.i
+.PHONY : Team.cpp.i
+
+Team.s: Team.cpp.s
+.PHONY : Team.s
+
+# target to generate assembly for a file
+Team.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Team.cpp.s
+.PHONY : Team.cpp.s
+
+Visitor.o: Visitor.cpp.o
+.PHONY : Visitor.o
+
+# target to build an object file
+Visitor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o
+.PHONY : Visitor.cpp.o
+
+Visitor.i: Visitor.cpp.i
+.PHONY : Visitor.i
+
+# target to preprocess a source file
+Visitor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Visitor.cpp.i
+.PHONY : Visitor.cpp.i
+
+Visitor.s: Visitor.cpp.s
+.PHONY : Visitor.s
+
+# target to generate assembly for a file
+Visitor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/zad_domowe_2.dir/build.make CMakeFiles/zad_domowe_2.dir/Visitor.cpp.s
+.PHONY : Visitor.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +354,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... zad_domowe_2"
+	@echo "... FieldPlayers.o"
+	@echo "... FieldPlayers.i"
+	@echo "... FieldPlayers.s"
+	@echo "... Game.o"
+	@echo "... Game.i"
+	@echo "... Game.s"
+	@echo "... Goalkeeper.o"
+	@echo "... Goalkeeper.i"
+	@echo "... Goalkeeper.s"
+	@echo "... Human.o"
+	@echo "... Human.i"
+	@echo "... Human.s"
+	@echo "... Player.o"
+	@echo "... Player.i"
+	@echo "... Player.s"
+	@echo "... Referee.o"
+	@echo "... Referee.i"
+	@echo "... Referee.s"
+	@echo "... Team.o"
+	@echo "... Team.i"
+	@echo "... Team.s"
+	@echo "... Visitor.o"
+	@echo "... Visitor.i"
+	@echo "... Visitor.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

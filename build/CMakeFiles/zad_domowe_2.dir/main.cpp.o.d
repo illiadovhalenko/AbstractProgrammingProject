@@ -51,12 +51,17 @@ CMakeFiles/zad_domowe_2.dir/main.cpp.o: /example/main.cpp \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/type_traits.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/numeric_traits.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_pair.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/compare \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/concepts \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_iterator_base_types.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/iterator_concepts.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ptr_traits.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ranges_cmp.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_iterator_base_funcs.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/concept_check.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/debug/assertions.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_iterator.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ptr_traits.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_construct.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/debug/debug.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/predefined_ops.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cstdint \
@@ -112,16 +117,7 @@ CMakeFiles/zad_domowe_2.dir/main.cpp.o: /example/main.cpp \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/cxxabi_forced.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_function.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/backward/binders.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/range_access.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/initializer_list \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/basic_string.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/alloc_traits.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/alloc_traits.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_construct.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/string_view \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/functional_hash.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/string_view.tcc \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/string_conversions.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_algo.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cstdlib \
   /usr/include/stdlib.h /usr/include/aarch64-linux-gnu/bits/waitflags.h \
   /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
@@ -134,6 +130,22 @@ CMakeFiles/zad_domowe_2.dir/main.cpp.o: /example/main.cpp \
   /usr/include/alloca.h \
   /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/std_abs.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/algorithmfwd.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/initializer_list \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_heap.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_tempbuf.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/uniform_int_dist.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/range_access.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/basic_string.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/alloc_traits.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/alloc_traits.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/string_view \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/functional_hash.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ranges_base.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/max_size_type.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/numbers \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/string_view.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/string_conversions.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cstdio \
   /usr/include/stdio.h \
   /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
@@ -167,56 +179,66 @@ CMakeFiles/zad_domowe_2.dir/main.cpp.o: /example/main.cpp \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ostream.tcc \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/istream \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/istream.tcc \
-  /usr/local/include/boost/filesystem/operations.hpp \
-  /usr/local/include/boost/filesystem/config.hpp \
-  /usr/local/include/boost/config.hpp \
-  /usr/local/include/boost/config/user.hpp \
-  /usr/local/include/boost/config/detail/select_compiler_config.hpp \
-  /usr/local/include/boost/config/compiler/clang.hpp \
-  /usr/local/include/boost/config/detail/select_stdlib_config.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/version \
-  /usr/local/include/boost/config/stdlib/libstdcpp3.hpp \
-  /usr/include/unistd.h /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
-  /usr/include/aarch64-linux-gnu/bits/environments.h \
-  /usr/include/aarch64-linux-gnu/bits/confname.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
-  /usr/include/linux/close_range.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/hash_set \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ext/slist \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/compare \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/shared_mutex \
-  /usr/local/include/boost/config/detail/select_platform_config.hpp \
-  /usr/local/include/boost/config/platform/linux.hpp \
-  /usr/local/include/boost/config/detail/posix_features.hpp \
-  /usr/local/include/boost/config/detail/suffix.hpp \
-  /usr/local/include/boost/config/helper_macros.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/optional \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/variant \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/any \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/memory_resource \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/charconv \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/execution \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/filesystem \
-  /usr/local/include/boost/config/detail/cxx_composite.hpp \
-  /usr/local/include/boost/system/api_config.hpp \
-  /usr/local/include/boost/detail/workaround.hpp \
-  /usr/local/include/boost/config/workaround.hpp \
-  /usr/local/include/boost/filesystem/path.hpp \
-  /usr/local/include/boost/assert.hpp /usr/include/assert.h \
-  /usr/local/include/boost/filesystem/path_traits.hpp \
-  /usr/local/include/boost/system/error_category.hpp \
-  /usr/local/include/boost/system/detail/error_category.hpp \
-  /usr/local/include/boost/system/detail/config.hpp \
-  /usr/local/include/boost/cstdint.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/functional \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tuple \
+  /example/Game.h /example/Team.h /example/Goalkeeper.h \
+  /example/Player.h /example/Human.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/fstream \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/codecvt.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/aarch64-linux-gnu/c++/11/bits/basic_file.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/aarch64-linux-gnu/c++/11/bits/c++io.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/fstream.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/random \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cmath \
+  /usr/include/math.h /usr/include/aarch64-linux-gnu/bits/math-vector.h \
+  /usr/include/aarch64-linux-gnu/bits/libm-simd-decl-stubs.h \
+  /usr/include/aarch64-linux-gnu/bits/flt-eval-method.h \
+  /usr/include/aarch64-linux-gnu/bits/fp-logb.h \
+  /usr/include/aarch64-linux-gnu/bits/fp-fast.h \
+  /usr/include/aarch64-linux-gnu/bits/mathcalls-helper-functions.h \
+  /usr/include/aarch64-linux-gnu/bits/mathcalls.h \
+  /usr/include/aarch64-linux-gnu/bits/mathcalls-narrow.h \
+  /usr/include/aarch64-linux-gnu/bits/iscanonical.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/specfun.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/limits \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/gamma.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/special_function_util.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/bessel_function.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/beta_function.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/ell_integral.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/exp_integral.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/hypergeometric.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/legendre_function.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/modified_bessel_func.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/poly_hermite.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/poly_laguerre.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/random.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/vector \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_uninitialized.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_vector.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_bvector.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/vector.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/aarch64-linux-gnu/c++/11/bits/opt_random.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/random.tcc \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/numeric \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_numeric.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bit \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/pstl/glue_numeric_defs.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/pstl/execution_defs.h \
+  /example/Globals.h /example/FieldPlayers.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/utility \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_relops.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/algorithm \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ranges_algo.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ranges_algobase.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/iterator \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stream_iterator.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/invoke.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/ranges_util.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/pstl/glue_algorithm_defs.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/functional \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/tuple \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/array \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/uses_allocator.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/invoke.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/refwrap.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/std_function.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/unordered_map \
@@ -227,311 +249,11 @@ CMakeFiles/zad_domowe_2.dir/main.cpp.o: /example/main.cpp \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/node_handle.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/unordered_map.h \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/erase_if.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/vector \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_uninitialized.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_vector.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_bvector.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/vector.tcc \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_algo.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/algorithmfwd.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_heap.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_tempbuf.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/uniform_int_dist.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cstddef \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/atomic \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/atomic_base.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/atomic_lockfree_defines.h \
-  /usr/local/include/boost/system/detail/error_category_impl.hpp \
-  /usr/local/include/boost/system/detail/error_condition.hpp \
-  /usr/local/include/boost/system/detail/generic_category.hpp \
-  /usr/local/include/boost/system/detail/generic_category_message.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cstring \
-  /usr/include/string.h /usr/include/strings.h \
-  /usr/local/include/boost/system/detail/enable_if.hpp \
-  /usr/local/include/boost/system/detail/is_same.hpp \
-  /usr/local/include/boost/system/detail/errc.hpp \
-  /usr/local/include/boost/system/is_error_condition_enum.hpp \
-  /usr/local/include/boost/system/detail/cerrno.hpp \
-  /usr/local/include/boost/system/detail/error_code.hpp \
-  /usr/local/include/boost/system/is_error_code_enum.hpp \
-  /usr/local/include/boost/system/detail/system_category.hpp \
-  /usr/local/include/boost/system/detail/system_category_impl.hpp \
-  /usr/local/include/boost/system/detail/interop_category.hpp \
-  /usr/local/include/boost/system/detail/snprintf.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cstdarg \
-  /usr/local/include/boost/system/detail/std_category.hpp \
-  /usr/local/include/boost/type_traits/is_array.hpp \
-  /usr/local/include/boost/type_traits/integral_constant.hpp \
-  /usr/local/include/boost/type_traits/decay.hpp \
-  /usr/local/include/boost/type_traits/is_function.hpp \
-  /usr/local/include/boost/type_traits/detail/config.hpp \
-  /usr/local/include/boost/version.hpp \
-  /usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp \
-  /usr/local/include/boost/type_traits/remove_bounds.hpp \
-  /usr/local/include/boost/type_traits/remove_extent.hpp \
-  /usr/local/include/boost/type_traits/add_pointer.hpp \
-  /usr/local/include/boost/type_traits/remove_reference.hpp \
-  /usr/local/include/boost/type_traits/remove_cv.hpp \
-  /usr/local/include/boost/core/enable_if.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/list \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stl_list.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/allocated_ptr.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/list.tcc \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/iterator \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/stream_iterator.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/locale \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/locale_facets_nonio.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/ctime \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/aarch64-linux-gnu/c++/11/bits/time_members.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/aarch64-linux-gnu/c++/11/bits/messages_members.h \
-  /usr/include/libintl.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/codecvt.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/locale_facets_nonio.tcc \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/locale_conv.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/bits/unique_ptr.h \
-  /usr/local/include/boost/filesystem/detail/header.hpp \
-  /usr/local/include/boost/config/abi_prefix.hpp \
-  /usr/local/include/boost/filesystem/detail/footer.hpp \
-  /usr/local/include/boost/config/abi_suffix.hpp \
-  /usr/local/include/boost/iterator/iterator_facade.hpp \
-  /usr/local/include/boost/iterator/interoperable.hpp \
-  /usr/local/include/boost/mpl/bool.hpp \
-  /usr/local/include/boost/mpl/bool_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/adl_barrier.hpp \
-  /usr/local/include/boost/mpl/aux_/config/adl.hpp \
-  /usr/local/include/boost/mpl/aux_/config/msvc.hpp \
-  /usr/local/include/boost/mpl/aux_/config/intel.hpp \
-  /usr/local/include/boost/mpl/aux_/config/gcc.hpp \
-  /usr/local/include/boost/mpl/aux_/config/workaround.hpp \
-  /usr/local/include/boost/mpl/integral_c_tag.hpp \
-  /usr/local/include/boost/mpl/aux_/config/static_constant.hpp \
-  /usr/local/include/boost/mpl/or.hpp \
-  /usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp \
-  /usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
-  /usr/local/include/boost/mpl/aux_/na_spec.hpp \
-  /usr/local/include/boost/mpl/lambda_fwd.hpp \
-  /usr/local/include/boost/mpl/void_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/na.hpp \
-  /usr/local/include/boost/mpl/aux_/na_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/config/ctps.hpp \
-  /usr/local/include/boost/mpl/aux_/config/lambda.hpp \
-  /usr/local/include/boost/mpl/aux_/config/ttp.hpp \
-  /usr/local/include/boost/mpl/int.hpp \
-  /usr/local/include/boost/mpl/int_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/nttp_decl.hpp \
-  /usr/local/include/boost/mpl/aux_/config/nttp.hpp \
-  /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp \
-  /usr/local/include/boost/mpl/aux_/static_cast.hpp \
-  /usr/local/include/boost/preprocessor/cat.hpp \
-  /usr/local/include/boost/preprocessor/config/config.hpp \
-  /usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
-  /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/arity.hpp \
-  /usr/local/include/boost/mpl/aux_/config/dtp.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessor/params.hpp \
-  /usr/local/include/boost/mpl/aux_/config/preprocessor.hpp \
-  /usr/local/include/boost/preprocessor/comma_if.hpp \
-  /usr/local/include/boost/preprocessor/punctuation/comma_if.hpp \
-  /usr/local/include/boost/preprocessor/control/if.hpp \
-  /usr/local/include/boost/preprocessor/control/iif.hpp \
-  /usr/local/include/boost/preprocessor/logical/bool.hpp \
-  /usr/local/include/boost/preprocessor/config/limits.hpp \
-  /usr/local/include/boost/preprocessor/logical/limits/bool_256.hpp \
-  /usr/local/include/boost/preprocessor/facilities/empty.hpp \
-  /usr/local/include/boost/preprocessor/punctuation/comma.hpp \
-  /usr/local/include/boost/preprocessor/repeat.hpp \
-  /usr/local/include/boost/preprocessor/repetition/repeat.hpp \
-  /usr/local/include/boost/preprocessor/debug/error.hpp \
-  /usr/local/include/boost/preprocessor/detail/auto_rec.hpp \
-  /usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp \
-  /usr/local/include/boost/preprocessor/tuple/eat.hpp \
-  /usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp \
-  /usr/local/include/boost/preprocessor/inc.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/inc.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
-  /usr/local/include/boost/mpl/limits/arity.hpp \
-  /usr/local/include/boost/preprocessor/logical/and.hpp \
-  /usr/local/include/boost/preprocessor/logical/bitand.hpp \
-  /usr/local/include/boost/preprocessor/identity.hpp \
-  /usr/local/include/boost/preprocessor/facilities/identity.hpp \
-  /usr/local/include/boost/preprocessor/empty.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/add.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/dec.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp \
-  /usr/local/include/boost/preprocessor/control/while.hpp \
-  /usr/local/include/boost/preprocessor/list/fold_left.hpp \
-  /usr/local/include/boost/preprocessor/list/detail/fold_left.hpp \
-  /usr/local/include/boost/preprocessor/control/expr_iif.hpp \
-  /usr/local/include/boost/preprocessor/list/adt.hpp \
-  /usr/local/include/boost/preprocessor/detail/is_binary.hpp \
-  /usr/local/include/boost/preprocessor/detail/check.hpp \
-  /usr/local/include/boost/preprocessor/logical/compl.hpp \
-  /usr/local/include/boost/preprocessor/list/detail/limits/fold_left_256.hpp \
-  /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp \
-  /usr/local/include/boost/preprocessor/list/fold_right.hpp \
-  /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp \
-  /usr/local/include/boost/preprocessor/list/reverse.hpp \
-  /usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp \
-  /usr/local/include/boost/preprocessor/control/detail/while.hpp \
-  /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp \
-  /usr/local/include/boost/preprocessor/control/limits/while_256.hpp \
-  /usr/local/include/boost/preprocessor/logical/bitor.hpp \
-  /usr/local/include/boost/preprocessor/tuple/elem.hpp \
-  /usr/local/include/boost/preprocessor/facilities/expand.hpp \
-  /usr/local/include/boost/preprocessor/facilities/overload.hpp \
-  /usr/local/include/boost/preprocessor/variadic/size.hpp \
-  /usr/local/include/boost/preprocessor/facilities/check_empty.hpp \
-  /usr/local/include/boost/preprocessor/variadic/has_opt.hpp \
-  /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp \
-  /usr/local/include/boost/preprocessor/tuple/rem.hpp \
-  /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp \
-  /usr/local/include/boost/preprocessor/variadic/elem.hpp \
-  /usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp \
-  /usr/local/include/boost/preprocessor/comparison/equal.hpp \
-  /usr/local/include/boost/preprocessor/comparison/not_equal.hpp \
-  /usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp \
-  /usr/local/include/boost/preprocessor/logical/not.hpp \
-  /usr/local/include/boost/preprocessor/arithmetic/sub.hpp \
-  /usr/local/include/boost/mpl/aux_/config/eti.hpp \
-  /usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
-  /usr/local/include/boost/mpl/aux_/lambda_support.hpp \
-  /usr/local/include/boost/mpl/aux_/include_preprocessed.hpp \
-  /usr/local/include/boost/mpl/aux_/config/compiler.hpp \
-  /usr/local/include/boost/preprocessor/stringize.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
-  /usr/local/include/boost/type_traits/is_convertible.hpp \
-  /usr/local/include/boost/type_traits/intrinsics.hpp \
-  /usr/local/include/boost/type_traits/is_complete.hpp \
-  /usr/local/include/boost/type_traits/declval.hpp \
-  /usr/local/include/boost/type_traits/add_rvalue_reference.hpp \
-  /usr/local/include/boost/type_traits/is_void.hpp \
-  /usr/local/include/boost/type_traits/is_reference.hpp \
-  /usr/local/include/boost/type_traits/is_lvalue_reference.hpp \
-  /usr/local/include/boost/type_traits/is_rvalue_reference.hpp \
-  /usr/local/include/boost/type_traits/detail/yes_no_type.hpp \
-  /usr/local/include/boost/static_assert.hpp \
-  /usr/local/include/boost/iterator/detail/config_def.hpp \
-  /usr/local/include/boost/iterator/detail/config_undef.hpp \
-  /usr/local/include/boost/iterator/iterator_traits.hpp \
-  /usr/local/include/boost/iterator/iterator_categories.hpp \
-  /usr/local/include/boost/mpl/eval_if.hpp \
-  /usr/local/include/boost/mpl/if.hpp \
-  /usr/local/include/boost/mpl/aux_/value_wknd.hpp \
-  /usr/local/include/boost/mpl/aux_/config/integral.hpp \
-  /usr/local/include/boost/mpl/identity.hpp \
-  /usr/local/include/boost/mpl/placeholders.hpp \
-  /usr/local/include/boost/mpl/arg.hpp \
-  /usr/local/include/boost/mpl/arg_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/na_assert.hpp \
-  /usr/local/include/boost/mpl/assert.hpp \
-  /usr/local/include/boost/mpl/not.hpp \
-  /usr/local/include/boost/mpl/aux_/yes_no.hpp \
-  /usr/local/include/boost/mpl/aux_/config/arrays.hpp \
-  /usr/local/include/boost/mpl/aux_/config/gpu.hpp \
-  /usr/local/include/boost/mpl/aux_/config/pp_counter.hpp \
-  /usr/local/include/boost/mpl/aux_/arity_spec.hpp \
-  /usr/local/include/boost/mpl/aux_/arg_typedef.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
-  /usr/local/include/boost/iterator/detail/facade_iterator_category.hpp \
-  /usr/local/include/boost/core/use_default.hpp \
-  /usr/local/include/boost/mpl/and.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
-  /usr/local/include/boost/type_traits/is_same.hpp \
-  /usr/local/include/boost/type_traits/is_const.hpp \
-  /usr/local/include/boost/detail/indirect_traits.hpp \
-  /usr/local/include/boost/type_traits/is_pointer.hpp \
-  /usr/local/include/boost/type_traits/is_class.hpp \
-  /usr/local/include/boost/type_traits/is_volatile.hpp \
-  /usr/local/include/boost/type_traits/is_member_function_pointer.hpp \
-  /usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
-  /usr/local/include/boost/type_traits/is_member_pointer.hpp \
-  /usr/local/include/boost/type_traits/remove_pointer.hpp \
-  /usr/local/include/boost/detail/select_type.hpp \
-  /usr/local/include/boost/iterator/detail/enable_if.hpp \
-  /usr/local/include/boost/core/addressof.hpp \
-  /usr/local/include/boost/type_traits/add_const.hpp \
-  /usr/local/include/boost/type_traits/add_lvalue_reference.hpp \
-  /usr/local/include/boost/type_traits/add_reference.hpp \
-  /usr/local/include/boost/type_traits/remove_const.hpp \
-  /usr/local/include/boost/type_traits/is_pod.hpp \
-  /usr/local/include/boost/type_traits/is_scalar.hpp \
-  /usr/local/include/boost/type_traits/is_arithmetic.hpp \
-  /usr/local/include/boost/type_traits/is_integral.hpp \
-  /usr/local/include/boost/type_traits/is_floating_point.hpp \
-  /usr/local/include/boost/type_traits/is_enum.hpp \
-  /usr/local/include/boost/mpl/always.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp \
-  /usr/local/include/boost/mpl/apply.hpp \
-  /usr/local/include/boost/mpl/apply_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
-  /usr/local/include/boost/mpl/apply_wrap.hpp \
-  /usr/local/include/boost/mpl/aux_/has_apply.hpp \
-  /usr/local/include/boost/mpl/has_xxx.hpp \
-  /usr/local/include/boost/mpl/aux_/type_wrapper.hpp \
-  /usr/local/include/boost/mpl/aux_/config/has_xxx.hpp \
-  /usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp \
-  /usr/local/include/boost/preprocessor/array/elem.hpp \
-  /usr/local/include/boost/preprocessor/array/data.hpp \
-  /usr/local/include/boost/preprocessor/array/size.hpp \
-  /usr/local/include/boost/preprocessor/repetition/enum_params.hpp \
-  /usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp \
-  /usr/local/include/boost/mpl/aux_/config/has_apply.hpp \
-  /usr/local/include/boost/mpl/aux_/msvc_never_true.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp \
-  /usr/local/include/boost/mpl/lambda.hpp \
-  /usr/local/include/boost/mpl/bind.hpp \
-  /usr/local/include/boost/mpl/bind_fwd.hpp \
-  /usr/local/include/boost/mpl/aux_/config/bind.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
-  /usr/local/include/boost/mpl/next.hpp \
-  /usr/local/include/boost/mpl/next_prior.hpp \
-  /usr/local/include/boost/mpl/aux_/common_name_wknd.hpp \
-  /usr/local/include/boost/mpl/protect.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
-  /usr/local/include/boost/mpl/aux_/full_lambda.hpp \
-  /usr/local/include/boost/mpl/quote.hpp \
-  /usr/local/include/boost/mpl/void.hpp \
-  /usr/local/include/boost/mpl/aux_/has_type.hpp \
-  /usr/local/include/boost/mpl/aux_/config/bcc.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
-  /usr/local/include/boost/mpl/aux_/template_arity.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
-  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
-  /usr/local/include/boost/io/quoted.hpp \
-  /usr/local/include/boost/io/detail/buffer_fill.hpp \
-  /usr/local/include/boost/io/detail/ostream_guard.hpp \
-  /usr/local/include/boost/io/ios_state.hpp \
-  /usr/local/include/boost/io_fwd.hpp \
-  /usr/local/include/boost/functional/hash_fwd.hpp \
-  /usr/local/include/boost/container_hash/hash_fwd.hpp \
-  /usr/local/include/boost/filesystem/file_status.hpp \
-  /usr/local/include/boost/detail/bitmask.hpp \
-  /usr/local/include/boost/filesystem/exception.hpp \
-  /usr/local/include/boost/system/error_code.hpp \
-  /usr/local/include/boost/system/error_condition.hpp \
-  /usr/local/include/boost/system/errc.hpp \
-  /usr/local/include/boost/system/generic_category.hpp \
-  /usr/local/include/boost/system/system_category.hpp \
-  /usr/local/include/boost/system/detail/throws.hpp \
-  /usr/local/include/boost/system/system_error.hpp \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/11/../../../../include/c++/11/cassert \
-  /usr/local/include/boost/smart_ptr/intrusive_ptr.hpp \
-  /usr/local/include/boost/smart_ptr/detail/sp_convertible.hpp \
-  /usr/local/include/boost/smart_ptr/detail/sp_nullptr_t.hpp \
-  /usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp \
-  /usr/local/include/boost/config/no_tr1/functional.hpp \
-  /usr/local/include/boost/smart_ptr/detail/operator_bool.hpp \
-  /usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp \
-  /usr/local/include/boost/smart_ptr/detail/atomic_count.hpp \
-  /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp \
-  /usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp \
-  /usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
-  /usr/local/include/boost/filesystem/directory.hpp \
-  /usr/local/include/boost/core/scoped_enum.hpp
+  /example/Visitor.h /example/Referee.h /usr/include/unistd.h \
+  /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
+  /usr/include/aarch64-linux-gnu/bits/environments.h \
+  /usr/include/aarch64-linux-gnu/bits/confname.h \
+  /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
+  /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
+  /usr/include/linux/close_range.h

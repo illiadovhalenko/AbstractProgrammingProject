@@ -1,7 +1,47 @@
 [
 {
   "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_NO_LIB -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2 -isystem /usr/local/include  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics -std=c++17 -o CMakeFiles/zad_domowe_2.dir/main.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/main.cpp",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/FieldPlayers.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/FieldPlayers.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Game.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Game.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Game.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Goalkeeper.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Goalkeeper.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Human.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Human.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Human.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Player.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Player.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Player.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Referee.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Referee.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Referee.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Team.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Team.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Team.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Visitor.cpp",
+  "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/Visitor.cpp"
+},
+{
+  "directory": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=c++20 -o CMakeFiles/zad_domowe_2.dir/main.cpp.o -c /Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/main.cpp",
   "file": "/Users/mac/CLionProjects/Abstract-Prog/zad_domowe_2/main.cpp"
 }
 ]

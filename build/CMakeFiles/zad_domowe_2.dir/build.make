@@ -69,10 +69,122 @@ include CMakeFiles/zad_domowe_2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/zad_domowe_2.dir/flags.make
 
+CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o: ../FieldPlayers.cpp
+CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o -MF CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o -c /example/FieldPlayers.cpp
+
+CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/FieldPlayers.cpp > CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/FieldPlayers.cpp -o CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Game.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Game.cpp.o: ../Game.cpp
+CMakeFiles/zad_domowe_2.dir/Game.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/zad_domowe_2.dir/Game.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Game.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Game.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Game.cpp.o -c /example/Game.cpp
+
+CMakeFiles/zad_domowe_2.dir/Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Game.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Game.cpp > CMakeFiles/zad_domowe_2.dir/Game.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Game.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Game.cpp -o CMakeFiles/zad_domowe_2.dir/Game.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o: ../Goalkeeper.cpp
+CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o -c /example/Goalkeeper.cpp
+
+CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Goalkeeper.cpp > CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Goalkeeper.cpp -o CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Human.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Human.cpp.o: ../Human.cpp
+CMakeFiles/zad_domowe_2.dir/Human.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/zad_domowe_2.dir/Human.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Human.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Human.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Human.cpp.o -c /example/Human.cpp
+
+CMakeFiles/zad_domowe_2.dir/Human.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Human.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Human.cpp > CMakeFiles/zad_domowe_2.dir/Human.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Human.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Human.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Human.cpp -o CMakeFiles/zad_domowe_2.dir/Human.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Player.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Player.cpp.o: ../Player.cpp
+CMakeFiles/zad_domowe_2.dir/Player.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/zad_domowe_2.dir/Player.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Player.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Player.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Player.cpp.o -c /example/Player.cpp
+
+CMakeFiles/zad_domowe_2.dir/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Player.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Player.cpp > CMakeFiles/zad_domowe_2.dir/Player.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Player.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Player.cpp -o CMakeFiles/zad_domowe_2.dir/Player.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Referee.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Referee.cpp.o: ../Referee.cpp
+CMakeFiles/zad_domowe_2.dir/Referee.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/zad_domowe_2.dir/Referee.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Referee.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Referee.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Referee.cpp.o -c /example/Referee.cpp
+
+CMakeFiles/zad_domowe_2.dir/Referee.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Referee.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Referee.cpp > CMakeFiles/zad_domowe_2.dir/Referee.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Referee.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Referee.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Referee.cpp -o CMakeFiles/zad_domowe_2.dir/Referee.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Team.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Team.cpp.o: ../Team.cpp
+CMakeFiles/zad_domowe_2.dir/Team.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/zad_domowe_2.dir/Team.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Team.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Team.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Team.cpp.o -c /example/Team.cpp
+
+CMakeFiles/zad_domowe_2.dir/Team.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Team.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Team.cpp > CMakeFiles/zad_domowe_2.dir/Team.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Team.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Team.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Team.cpp -o CMakeFiles/zad_domowe_2.dir/Team.cpp.s
+
+CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
+CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o: ../Visitor.cpp
+CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o -MF CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o -c /example/Visitor.cpp
+
+CMakeFiles/zad_domowe_2.dir/Visitor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zad_domowe_2.dir/Visitor.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /example/Visitor.cpp > CMakeFiles/zad_domowe_2.dir/Visitor.cpp.i
+
+CMakeFiles/zad_domowe_2.dir/Visitor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zad_domowe_2.dir/Visitor.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /example/Visitor.cpp -o CMakeFiles/zad_domowe_2.dir/Visitor.cpp.s
+
 CMakeFiles/zad_domowe_2.dir/main.cpp.o: CMakeFiles/zad_domowe_2.dir/flags.make
 CMakeFiles/zad_domowe_2.dir/main.cpp.o: ../main.cpp
 CMakeFiles/zad_domowe_2.dir/main.cpp.o: CMakeFiles/zad_domowe_2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/zad_domowe_2.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/zad_domowe_2.dir/main.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/zad_domowe_2.dir/main.cpp.o -MF CMakeFiles/zad_domowe_2.dir/main.cpp.o.d -o CMakeFiles/zad_domowe_2.dir/main.cpp.o -c /example/main.cpp
 
 CMakeFiles/zad_domowe_2.dir/main.cpp.i: cmake_force
@@ -85,17 +197,31 @@ CMakeFiles/zad_domowe_2.dir/main.cpp.s: cmake_force
 
 # Object files for target zad_domowe_2
 zad_domowe_2_OBJECTS = \
+"CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Game.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Human.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Player.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Referee.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Team.cpp.o" \
+"CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o" \
 "CMakeFiles/zad_domowe_2.dir/main.cpp.o"
 
 # External object files for target zad_domowe_2
 zad_domowe_2_EXTERNAL_OBJECTS =
 
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Game.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Human.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Player.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Referee.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Team.cpp.o
+zad_domowe_2: CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o
 zad_domowe_2: CMakeFiles/zad_domowe_2.dir/main.cpp.o
 zad_domowe_2: CMakeFiles/zad_domowe_2.dir/build.make
-zad_domowe_2: /usr/local/lib/libboost_filesystem.a
-zad_domowe_2: /usr/local/lib/libboost_atomic.a
 zad_domowe_2: CMakeFiles/zad_domowe_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable zad_domowe_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable zad_domowe_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/zad_domowe_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

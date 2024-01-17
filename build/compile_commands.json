@@ -1,7 +1,47 @@
 [
 {
   "directory": "/example/build",
-  "command": "/usr/bin/clang++ -DBOOST_ALL_NO_LIB -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++17 -o CMakeFiles/zad_domowe_2.dir/main.cpp.o -c /example/main.cpp",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o -c /example/FieldPlayers.cpp",
+  "file": "/example/FieldPlayers.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Game.cpp.o -c /example/Game.cpp",
+  "file": "/example/Game.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o -c /example/Goalkeeper.cpp",
+  "file": "/example/Goalkeeper.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Human.cpp.o -c /example/Human.cpp",
+  "file": "/example/Human.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Player.cpp.o -c /example/Player.cpp",
+  "file": "/example/Player.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Referee.cpp.o -c /example/Referee.cpp",
+  "file": "/example/Referee.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Team.cpp.o -c /example/Team.cpp",
+  "file": "/example/Team.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o -c /example/Visitor.cpp",
+  "file": "/example/Visitor.cpp"
+},
+{
+  "directory": "/example/build",
+  "command": "/usr/bin/clang++  -I/example  -Wall -Wbuiltin-macro-redefined -pedantic -Werror -std=c++20 -o CMakeFiles/zad_domowe_2.dir/main.cpp.o -c /example/main.cpp",
   "file": "/example/main.cpp"
 }
 ]

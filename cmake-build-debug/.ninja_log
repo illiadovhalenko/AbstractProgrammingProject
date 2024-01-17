@@ -1,3 +1,13 @@
 # ninja log v5
 3	731	1699121122075841576	CMakeFiles/zad_domowe_2.dir/main.cpp.o	bc5aa96626b0d8b
 627	665	1699121108230445421	zad_domowe_2	39a4856d33e9429f
+2	1233	1705501159057490319	CMakeFiles/zad_domowe_2.dir/Game.cpp.o	812797680d0c0831
+2	1235	1705501159060385914	CMakeFiles/zad_domowe_2.dir/Goalkeeper.cpp.o	bd8e16c5e9364446
+3	1256	1705501159082491838	CMakeFiles/zad_domowe_2.dir/Player.cpp.o	af54f3053b8fb30c
+3	1260	1705501159086192936	CMakeFiles/zad_domowe_2.dir/Human.cpp.o	e596c559935ffe3
+4	1292	1705501159119613447	CMakeFiles/zad_domowe_2.dir/Referee.cpp.o	8a5e6248bf0ce707
+2	1309	1705501159130010115	CMakeFiles/zad_domowe_2.dir/FieldPlayers.cpp.o	36c59f454227a6d0
+4	1310	1705501159135623679	CMakeFiles/zad_domowe_2.dir/Team.cpp.o	f1f9db78d439058a
+5	1313	1705501159141498286	CMakeFiles/zad_domowe_2.dir/Visitor.cpp.o	7c7d76f9edecc402
+1235	1857	1705501159686351258	CMakeFiles/zad_domowe_2.dir/main.cpp.o	3d7d9a10a63c65ff
+1858	4023	1705501161853289882	zad_domowe_2	a28d104665e9bf36

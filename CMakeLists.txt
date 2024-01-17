@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 project(zad_domowe_2)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(CMAKE_CXX_EXTENSIONS OFF)
@@ -17,12 +17,4 @@ file(GLOB SOURCES "${CMAKE_SOURCE_DIR}/*.cpp")
 
 add_executable(${PROJECT_NAME} ${SOURCES})
 
-set(Boost_USE_STATIC_LIBS        ON) # only find static libs
-set(Boost_USE_MULTITHREADED      ON)
-set(Boost_USE_STATIC_RUNTIME    OFF) # do not look for boost libraries linked against static C++ std lib
 
-find_package(Boost REQUIRED COMPONENTS filesystem)
-
-target_link_libraries(${PROJECT_NAME}
-        Boost::filesystem
-        )
